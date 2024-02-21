@@ -50,7 +50,7 @@ Pretty dope, huh?
 
 https://www.patreon.com/krimpfugly
 
-https;//colortv.itch.io
+https://colortv.itch.io
 
 https://www.colortelevision.org
 
