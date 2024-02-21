@@ -12,16 +12,16 @@ RUN:
 
 	python3 -V
 
-		If you don't have a version of python3 installed,
-		RUN: 
+If you don't have a version of python3 installed,
+RUN: 
 
-			brew install python3
+	brew install python3
 
-		If you don't have brew installed... go to 
+If you don't have brew installed... go to 
+	
+	https://brew.sh
 		
-			https://brew.sh
-		
-		Follow the instructions, and try again.
+Follow the instructions, and try again.
 
 Once Python3 is installed, we can ensure PIP's version,
 RUN:
